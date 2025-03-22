@@ -12,6 +12,8 @@
   #### :raising_hand: I am Backend Developer from South Korea.<br/>
   #### :fire: I aim to become a Backend Developer<br/>
   #### :mortar_board: Software Convergence Major, Sungkonghoe University(SKHU)
+  ## Solvd.ac Profile
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jake3474)](https://solved.ac/jake3474/)
   <br/>
   <br/>
   
@@ -63,9 +65,11 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toypiles&show_icons=true&theme=radical)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toypiles)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+
   
 </div>
 
